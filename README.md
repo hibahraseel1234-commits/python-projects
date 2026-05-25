@@ -10,6 +10,7 @@ A collection of projects I built while learning Python.
 4. Number Guessing Game
 5. Rock Paper Scissors
 6. To-Do List
+7. Expense tracker
 
 ## Skills Practiced
 
